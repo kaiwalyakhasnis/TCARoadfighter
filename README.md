@@ -1,7 +1,7 @@
 # TCA RoadFighter
 
 This project is an exploration of using the TCA (The Composable Architecture) framework with SwiftUI to develop a game.
-
+<img src="https://github.com/kaiwalyakhasnis/TCARoadfighter/blob/main/output.gif" width="360" height="400">
 
 ## Features
 
